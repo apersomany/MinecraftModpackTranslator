@@ -19,6 +19,6 @@ Your language in ISO 639-1 + ISO 3166-2 format with an underscore in the middle
 
 Examples: en_us, ko_kr, zh_cn 
 ### IncludeOriginalText
-If on your translations will have the original text in parantheses.
+If set to yes, your translations will have the original text in parantheses.
 
 Example: Make a crafting table -> 작업대를 만드세요 (Make a crafting table)
